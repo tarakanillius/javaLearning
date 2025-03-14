@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.List;
 
 public final class StringUtil {
-    public StringUtil() {}
+    private StringUtil() {}
 
     public static HashMap<String,Integer> getUniqueWords(String text) {
         HashMap<String,Integer> result = new HashMap<>();

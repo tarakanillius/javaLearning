@@ -1,0 +1,28 @@
+package com.trkn.level2.houseExample;
+
+import java.util.ArrayList;
+
+private class Floor {
+    private final int number;
+    private final ArrayList<Apartment> apartmentArray  = new ArrayList<>();
+
+    private Floor(int number) {
+        this.number = number;
+    }
+
+    private int getNumber() {
+        return number;
+    }
+
+    private ArrayList<Apartment> getApartmentArray() {
+        return apartmentArray;
+    }
+
+    private void addApartment(Apartment apartmentArray) {
+        this.apartmentArray.add(apartmentArray);
+    }
+
+    private String toString() {
+        return "Floor " + number+" number of apartments " + apartmentArray.size();
+    }
+}

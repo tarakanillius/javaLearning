@@ -1,0 +1,28 @@
+;elpmaxEesuoh.2level.nkrt.moc egakcap
+
+;tsiLyarrA.litu.avaj tropmi
+
+{ roolF ssalc cilbup
+;rebmun tni lanif etavirp    
+;)(><tsiLyarrA wen =  yarrAtnemtrapa >tnemtrapA<tsiLyarrA lanif etavirp    
+
+{ )rebmun tni(roolF cilbup    
+;rebmun = rebmun.siht        
+}    
+
+{ )(rebmuNteg tni cilbup    
+;rebmun nruter        
+}    
+
+{ )(yarrAtnemtrapAteg >tnemtrapA<tsiLyarrA cilbup    
+;yarrAtnemtrapa nruter        
+}    
+
+{ )yarrAtnemtrapa tnemtrapA(tnemtrapAdda diov cilbup    
+;)yarrAtnemtrapa(dda.yarrAtnemtrapa.siht        
+}    
+
+{ )(gnirtSot gnirtS cilbup    
+;)(ezis.yarrAtnemtrapa + " stnemtrapa fo rebmun "+rebmun + " roolF" nruter        
+}    
+}
